@@ -17,7 +17,7 @@ Karel이라는 스탠퍼드에서 만든 코딩게임을 접하면서 프로그�
 </br>
 
 ## <img src="https://media3.giphy.com/media/fJ5Xpj07qbnMDHu0NE/giphy.gif?cid=ecf05e47v8xsh57vgcwa9cp7ug9w2icor3uu96fc4ej5vhft&rid=giphy.gif&ct=s"  width="45"> Projects
-### 1. [RummageMarket]( www.rummagemarket.tk)
+### 1. [RummageMarket](https://www.rummagemarket.tk)
 >sns기반의 중고거래 웹 사이트 (팀 프로젝트)  
 >개발 기간: 2022.11.16 ~ 2022.12.06
 >개발 인원: 2명
